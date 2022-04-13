@@ -1,0 +1,31 @@
+.font-xs {
+  font: 400 1rem/1.5 "Inter", sans-serif;
+}
+
+.font-xs-b {
+  font: 500 1rem/1.5 "Inter", sans-serif;
+}
+
+.font-s {
+  font: 500 1.125rem/1.55 "Inter", sans-serif;
+}
+
+.font-m {
+  font: 400 1.25rem/1.5 "Inter", sans-serif;
+}
+
+.font-m-b {
+  font: 500 1.25rem/1.5 "Inter", sans-serif;
+}
+
+.font-l {
+  font: 500 2.25rem/1.22 "Inter", sans-serif;
+}
+
+.font-xl {
+  font: 600 3rem/1.5 "Inter", sans-serif;
+}
+
+.font-xxl {
+  font: 600 3.75rem/1.2 "Inter", sans-serif;
+}
