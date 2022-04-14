@@ -33,6 +33,7 @@ a:hover {
 }
 
 .btn {
+  color: var(--color-1);
   font: 500 1rem/1.5 "Inter", sans-serif;
   background: var(--color-p1);
   padding: 10px 18px;

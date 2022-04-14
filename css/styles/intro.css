@@ -1,19 +1,19 @@
-.desc {
+.intro-desc {
   padding-top: 96px;
   padding-bottom: 96px;
 }
 
-.desc span {
+.intro-desc span {
   display: block;
   font-weight: 600;
   margin-bottom: 24px;
 }
 
-.desc h1 {
+.intro-desc h1 {
   margin-bottom: 24px;
 }
 
-.data {
+.intro-data {
   text-align: left;
   padding-bottom: 96px;
   display: flex;
@@ -21,34 +21,34 @@
   gap: 32px;
 }
 
-.data li {
+.intro-data li {
   flex: 1 1 192px;
 }
 
-.data span {
+.intro-data span {
   display: block;
   margin-bottom: 12px;
 }
 
-.data h2 {
+.intro-data h2 {
   margin-bottom: 8px;
 }
 
 @media (max-width: 800px) {
-  .desc {
+  .intro-desc {
     padding-top: 48px;
     padding-bottom: 74px;
   }
 
-  .desc span {
+  .intro-desc span {
     margin-bottom: 12px;
   }
 
-  .data {
+  .intro-data {
     padding-bottom: 48px;
   }
 
-  .data span {
+  .intro-data span {
     margin-bottom: 6px;
   }
 }
@@ -58,7 +58,7 @@
     text-align: left;
   }
 
-  .desc {
+  .intro-desc {
     padding-bottom: 48px;
   }
 }

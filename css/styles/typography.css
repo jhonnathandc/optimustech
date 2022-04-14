@@ -19,7 +19,7 @@
 }
 
 .font-l {
-  font: 500 2.25rem/1.22 "Inter", sans-serif;
+  font: 600 2.25rem/1.2 "Inter", sans-serif;
 }
 
 .font-xl {
@@ -31,6 +31,10 @@
 }
 
 @media (max-width: 800px) {
+  .font-l {
+    font-size: 2rem;
+  }
+  
   .font-xl {
     font-size: 2.7rem;
   }
