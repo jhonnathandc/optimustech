@@ -2,18 +2,34 @@
 
 <hr>
 
-<h2 align='center'>OptimusTech</h2>
+<p align='center'>Optimustech</p>
 <br>
 <p align='center'>This project was created by developer Giovanna Moeller in the week of #7DaysOfCode.</p>
 <p align='center'>In this project, we built a simple landing page.</p>
 <p align='center'>The entire design project was developed by her at Figma. Then it was passed to the code and so it was finished.</p>
 
-![](https://user-images.githubusercontent.com/82620787/163517160-29524b6a-cc6f-4000-930c-cb3ead7f7d59.mp4)
+https://user-images.githubusercontent.com/82620787/163517160-29524b6a-cc6f-4000-930c-cb3ead7f7d59.mp4
 
 ## :computer: Technologies
-<hr>
 <p>The following technologies were used in this project:</p>
-*HTML
-<p></p>
-<p></p>
-<p></p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+## :mag_right: How To Use
+
+```
+# Clone this repository
+$ git clone https://github.com/jhonnathandc/optimustech
+
+# Go into the repository
+
+# Go to index.html
+# Right click on it
+# Run with Live Server
+```
+
+## Contributors
+<a href='https://github.com/giovannamoeller'>Giovanna Moeller</a>
