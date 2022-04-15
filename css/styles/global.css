@@ -43,6 +43,10 @@ a:hover {
   transition: .3s;
 }
 
+.btn:hover::after {
+  width: 0%;
+}
+
 .btn:hover {
   background: #751d1d;
   color: var(--color-1);

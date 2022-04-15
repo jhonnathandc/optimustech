@@ -23,6 +23,29 @@
   gap: 32px;
 }
 
+.header-nav a {
+  position: relative;
+}
+
+.header-nav a::after {
+  content: "";
+  display: block;
+  width: 0%;
+  height: 2px;
+  background: var(--color-p1);
+  position: absolute;
+  margin-top: 4px;
+  transition: .3s;
+}
+
+.header-nav a:hover::after {
+  width: 100%;
+}
+
+.header-nav .btn:hover::after {
+  display: none;
+}
+
 .header-buttons {
   display: flex;
   place-items: start;
