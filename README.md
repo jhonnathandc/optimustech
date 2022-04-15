@@ -27,8 +27,6 @@ $ git clone https://github.com/jhonnathandc/optimustech
 # Go into the repository
 
 # Go to index.html
-# Right click on it
-# Run with Live Server
 ```
 
 ## Contributors
