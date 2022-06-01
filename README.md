@@ -8,7 +8,7 @@
 <p align='center'>In this project, we built a simple landing page.</p>
 <p align='center'>The entire design project was developed by her at Figma. Then it was passed to the code and so it was finished.</p>
 
-<p align='center'><a href="https://jhonnathan-optimustech.netlify.app/">Acess The Website Here</a></p>
+<p align='center'><a href="https://jhonnathan-optimustech.netlify.app/">Access The Website Here</a></p>
 
 ##
 
