@@ -1,5 +1,5 @@
 
-# Challenge 3 | Codelandia
+# OptmusTech
 
 This project was created by developer [Giovanna Moeller](https://www.instagram.com/girl.coding/) in the week of #7DaysOfCode. In this project, we built a simple landing page. The entire design project was developed by her at Figma. Then it was passed to the code and that's how it was finished.
 
