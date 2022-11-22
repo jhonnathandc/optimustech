@@ -3,7 +3,7 @@
 
 Este projeto foi criado pela desenvolvedora [Giovanna Moeller](https://www.instagram.com/girl.coding/) na semana do #7DaysOfCode. Neste projeto, construímos uma página de destino simples. Todo o projeto de design foi desenvolvido por ela na Figma. Depois foi passado para o código e foi assim que foi finalizado.
 
-[Acesse o site aqui](https://jhonnathan-optimustech.netlify.app/)
+[Acesse o site aqui](https://optimustechchallenger.vercel.app/)
 ## Demonstração
 
 ![Optimustech](https://user-images.githubusercontent.com/82620787/171302894-14ff0707-0b69-41d6-b718-9b7088d73d68.png)
